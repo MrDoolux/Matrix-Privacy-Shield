@@ -1,0 +1,25 @@
+# PowerShell
+*.ps1xml
+*.psc1
+*.psm1
+*.psd1
+
+# Generated files
+*.log
+*.csv
+*.xml
+
+# Temporary files
+Thumbs.db
+*.tmp
+*.temp
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Windows specific
+*.exe
+*.pdb
